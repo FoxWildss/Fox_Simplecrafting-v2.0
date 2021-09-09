@@ -8,6 +8,8 @@ fivem script to combine several items into an item by crafting
 1. Put fox_simplecrafting file into resources directory
 2. Put sql into database
 3. Add (start fox_simplecrafting) on server.cfg
+# Easy Config Customization
+
 # Preview
 
 # Easy To Use
